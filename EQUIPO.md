@@ -6,13 +6,9 @@
 - Boris Calciña
 - Manizeh Monteveille
 - Leyna Ruegenberg
-## Integrantes
-##Sebastian Armijo
-##Boris Ignacio Calcina Barriga
-##Manizeh Monteville
-##Leyna Ruegenberg
+
 
 -boris (rama dev/boris)
 -leyna (rama dev/leyna)
-
+-Manizeh(rama dev/Manizeh)
 - sebastian (rama dev/sebastian)
