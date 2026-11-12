@@ -1,8 +1,7 @@
 # Equipo 3 - Agenda de contactos
 ## Integrantes
 ##Sebastian Armijo
-##Boris Calcina
+##Boris Ignacio Calcina Barriga
 ##Manizeh Monteville
-##Leyna Ruegenberga
-
+##Leyna Ruegenberg
 
