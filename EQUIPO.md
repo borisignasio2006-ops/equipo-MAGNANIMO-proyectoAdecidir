@@ -2,8 +2,7 @@
 
 ## Integrantes
 
-\##Sebastian Armijo
-##Boris Calcina
-##Manizeh Monteville
-##Leyna Ruegenberg
-
+- Sebastian Armijo
+- Boris Calciña
+- Manizeh Monteveille
+- Leyna Ruegenberg
