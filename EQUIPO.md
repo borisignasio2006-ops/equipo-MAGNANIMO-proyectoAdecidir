@@ -3,6 +3,6 @@
 ##Sebastian Armijo
 ##Boris Calcina
 ##Manizeh Monteville
-##Leyna Ruegenberga
+##Leyna Ruegenberg
 
 
